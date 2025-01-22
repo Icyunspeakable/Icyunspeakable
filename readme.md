@@ -17,5 +17,5 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
-  <img src="https://i.giphy.com/jAe22Ec5iICCk.webp)" width="600" height="300"/>
+  <img src="https://cdn.discordapp.com/attachments/776228439006248960/1331748022836658196/download20210501135439.png?ex=6792be7f&is=67916cff&hm=d0b8872acfb78d562a8e07a1f596d23fdd4012bb805f45ca49cf60bacb48ccf2&" width="600" height="300"/>
 </div>
