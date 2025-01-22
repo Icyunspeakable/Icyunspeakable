@@ -1,6 +1,7 @@
 <div id="header" align="center">
-  <img src="https://cdn.discordapp.com/attachments/776228439006248960/1331754468106305536/download20201105143443_-_Copy.png?ex=6792c47f&is=679172ff&hm=16db9cef2ccd1c8fc93d11a8a55682f434db9006cf0b2005bc21643af1545d5f&" width="250"/>
-</div>
+    <a href="https://bsky.app/profile/itsu-k.dev" alt="my bluesky">
+  <img src="https://cdn.discordapp.com/attachments/776228439006248960/1331756917978169395/Screenshot_2024-12-08_021832.png?ex=6792c6c8&is=67917548&hm=f102b929b4a34fb8a274a822245d74da8497651fea51fdcb8b7525b8007a7e08&" width="250">
+</a>
 <div id="badges" align="center">
   <a href="https://www.twitch.tv/Icyunspeakable">
     <img src="https://img.shields.io/badge/twitch-purple?style=for-the-badge&logo=twitch&logoColor=white" alt="LinkedIn Badge"/>
@@ -12,9 +13,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   
-  <a href="https://bsky.app/profile/itsu-k.dev" alt="my bluesky">
-  <img src="https://cdn.discordapp.com/attachments/776228439006248960/1331756917978169395/Screenshot_2024-12-08_021832.png?ex=6792c6c8&is=67917548&hm=f102b929b4a34fb8a274a822245d74da8497651fea51fdcb8b7525b8007a7e08&" width="250">
-</a>
+
   
 </div>
 <h1 align="center">
