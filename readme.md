@@ -14,7 +14,7 @@
 </div align="center">
 <h1 align="center">
   Hi, I'm Itsuki!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://cdn.discordapp.com/attachments/776228439006248960/1331754468106305536/download20201105143443_-_Copy.png?ex=6792c47f&is=679172ff&hm=16db9cef2ccd1c8fc93d11a8a55682f434db9006cf0b2005bc21643af1545d5f&" width="30px"/>
 </h1>
 <div align="center">
   <img src="https://i.giphy.com/jAe22Ec5iICCk.webp" width="600" height="300"/>
