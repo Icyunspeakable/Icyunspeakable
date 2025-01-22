@@ -48,3 +48,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
+
+Some of my old Works
+
+---
+
+<a href="https://itsukisdomain.neocities.org/">
+  <img src="https://cdn.discordapp.com/attachments/776228439006248960/1331755298372845568/Yokuso.gif?ex=6792c545&is=679173c5&hm=ba813a3835a5db4f617e0844816be0e688ade9513ff99d6879ee994304fe8f4e&" width="100">
+</a>
