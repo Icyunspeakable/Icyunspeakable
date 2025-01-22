@@ -67,4 +67,6 @@ Some of my old Works
 <a href="https://github.com/Icyunspeakable/spotify-remote" alt="Spotify remote">
   <img src="https://play-lh.googleusercontent.com/eN0IexSzxpUDMfFtm-OyM-nNs44Y74Q3k51bxAMhTvrTnuA4OGnTi_fodN4cl-XxDQc" alt="Spotify Remote" width="100">
 </a>
-
+<a href="https://www.itsu-k.dev" alt="new website (WIP)">
+    <img src="https://cdn.discordapp.com/attachments/776228439006248960/1331754468106305536/download20201105143443_-_Copy.png?ex=6792c47f&is=679172ff&hm=16db9cef2ccd1c8fc93d11a8a55682f434db9006cf0b2005bc21643af1545d5f&" width="100">
+</a>
