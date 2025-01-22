@@ -19,6 +19,7 @@
 <div align="center">
   <img src="https://i.giphy.com/jAe22Ec5iICCk.webp" width="600" height="300"/>
 </div>
+
 ---
 
 ### 💮 About Me 💮:
