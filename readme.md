@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <a href="https://bsky.app/profile/itsu-k.dev" alt="my bluesky">
-  <img src="https://cdn.discordapp.com/attachments/776228439006248960/1331756917978169395/Screenshot_2024-12-08_021832.png?ex=6792c6c8&is=67917548&hm=f102b929b4a34fb8a274a822245d74da8497651fea51fdcb8b7525b8007a7e08&" width="250">
+  <img src="https://cdn.bsky.app/img/banner/plain/did:plc:zpn3twte2dsq4lgzaafahwnb/bafkreie33puwvprfl3wn54aydvpimjbvklf7bxm26q6636bpaz34gztca4@jpeg" width="250">
 </a>
 <div id="badges" align="center">
   <a href="https://www.twitch.tv/Icyunspeakable">
