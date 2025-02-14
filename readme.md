@@ -64,7 +64,7 @@ Some of my old Works
 ---
 
 <a href="https://itsukisdomain.neocities.org/" alt="SEL inspired scavenger hunt">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/2482125509129434499/7D047567A77D4EEE73DAD409A59969520123430F/?imw=630&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="100">
+  <img src="https://imgur.com/BDRLH1O" width="100">
 </a>
 <a href="https://github.com/Icyunspeakable/spotify-remote" alt="Spotify remote">
   <img src="https://play-lh.googleusercontent.com/eN0IexSzxpUDMfFtm-OyM-nNs44Y74Q3k51bxAMhTvrTnuA4OGnTi_fodN4cl-XxDQc" alt="Spotify Remote" width="100">
